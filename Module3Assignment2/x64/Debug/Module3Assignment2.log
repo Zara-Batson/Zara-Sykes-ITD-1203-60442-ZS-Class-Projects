@@ -1,0 +1,4 @@
+﻿  Module3Assignment2.c
+C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\Module3Assignment2\Module3Assignment2.c(13,14): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\Module3Assignment2\Module3Assignment2.c(16,14): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Module3Assignment2.vcxproj -> C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\Module3Assignment2\x64\Debug\Module3Assignment2.exe
