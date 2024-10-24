@@ -1,0 +1,6 @@
+﻿  Module4_ZaraSykes.c
+C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\Module4Project\Module4_ZaraSykes.c(12,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\Module4Project\Module4_ZaraSykes.c(14,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\Module4Project\Module4_ZaraSykes.c(15,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\Module4Project\Module4_ZaraSykes.c(26,3): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Module4Project.vcxproj -> C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\Module4Project\x64\Debug\Module4Project.exe
