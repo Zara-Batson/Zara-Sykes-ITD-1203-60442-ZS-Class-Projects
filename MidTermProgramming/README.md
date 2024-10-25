@@ -11,8 +11,7 @@ Write a C program that creates customers’ bills for a carpet company when the 
 The labor cost is fixed at $0.35 per square foot. It is to be defined as a constant. The tax rate is 8.5% applied after the discount. It is also to be defined as a constant. The input data consist of a set of three integers representing the length and width of the room to be carpeted, the percentage of the discount the owner gives to a customer, and a real number representing the unit price of the carpet. The program is to prompt the user for this input as shown here. (Colored numbers are typical responses.)
 
 The output is shown here. Be careful to align the decimal points.
-
-![06134_ch04_dc_90-t2](https://github.com/user-attachments/assets/4fbecbbe-2358-48ec-a110-2b6b6922a791)
+![Screenshot 2024-10-25 120757](https://github.com/user-attachments/assets/d12ff7d4-8074-47c5-b42d-762955f17526)
 
 The program’s design should use main and at least the six functions described as follows:
 
