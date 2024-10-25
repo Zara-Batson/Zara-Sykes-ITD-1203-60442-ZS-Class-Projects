@@ -1,0 +1,8 @@
+﻿  midtermprogramming.c
+C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\MidTermProgramming\midtermprogramming.c(58,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\MidTermProgramming\midtermprogramming.c(59,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\MidTermProgramming\midtermprogramming.c(64,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\MidTermProgramming\midtermprogramming.c(65,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\MidTermProgramming\midtermprogramming.c(71,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\MidTermProgramming\midtermprogramming.c(72,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MidTermProgramming.vcxproj -> C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\MidTermProgramming\x64\Debug\MidTermProgramming.exe
