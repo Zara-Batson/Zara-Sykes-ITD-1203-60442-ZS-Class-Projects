@@ -1,0 +1,6 @@
+﻿  module12-2.c
+C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\module12-2\module12-2.c(48,33): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\module12-2\module12-2.c(48,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\module12-2\module12-2.c(73,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\module12-2\module12-2.c(74,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  module12-2.vcxproj -> C:\Users\zarad\Documents\Z-School stuff\C Programming\Assignments\Code\module12-2\x64\Debug\module12-2.exe
